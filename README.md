@@ -1,3 +1,7 @@
+# Student details
+- email: ojas.24bcs10227@sst.scaler.com
+- roll_no: 24BCS10227
+
 # SPSC Queue (With Locks, std::mutex and not spinlock)
 
 This is a C++ implementation of a SPSC (Single Producer, Single Consumer) queue which uses std::mutex.
