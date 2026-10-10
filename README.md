@@ -10,7 +10,6 @@ The actual SPSCQueue data structure is in `spscqueue.h`.
 
 # Benchmark
 
-The program 
 The target binary (`./SPSCQueue`) can be provided with two parameters:
 - Milliseconds allowed: Time in milliseconds before all threads terminate execution.
 - Number of threads: How many threads should try to push/pop from the queue at once.
